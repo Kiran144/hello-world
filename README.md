@@ -1,2 +1,4 @@
 # hello-world
-my first repositiry
+my first repository
+
+Changes for my first commit.
